@@ -32,5 +32,22 @@ namespace LambdaTests
     public double ObterSaldoTotalContas() {
       return contas.Sum(conta => conta.Saldo);
     }
+
+    public double MeiaDoSaldoDasContas() {
+      return contas.Average(conta => conta.Saldo);
+    }
+
+    public int NumeroDeContasComSaldoMaiorQue5000() {
+      return contas.Count(conta => conta.Saldo > 5000);
+    }
+
+    public double MenorSaldoEntreAsContas() {
+      return contas.Min(conta => conta.Numero);
+    }
+
+    public double MaiorSaldoEntreAsContas()
+    {
+      return contas.Max(conta => conta.Numero);
+    }
   }
 }

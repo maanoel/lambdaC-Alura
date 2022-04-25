@@ -21,8 +21,16 @@ namespace LambdaTests
       }
 
       var saldoTotalEntreAsContas = banco.ObterSaldoTotalContas();
+      var mediaEntreAsContas = banco.MeiaDoSaldoDasContas();
+      var numeroDeContasComSaldoMaiorQue5000 = banco.NumeroDeContasComSaldoMaiorQue5000();
+      var menorSaldoEntreAsContas = banco.MenorSaldoEntreAsContas();
+      var maiorSaldoEntreAsContas = banco.MaiorSaldoEntreAsContas();
 
       Console.WriteLine(saldoTotalEntreAsContas);
+      Console.WriteLine(mediaEntreAsContas);
+      Console.WriteLine(numeroDeContasComSaldoMaiorQue5000);
+      Console.WriteLine(menorSaldoEntreAsContas);
+      Console.WriteLine(maiorSaldoEntreAsContas);
     }
   }
 }
