@@ -17,12 +17,16 @@ namespace LambdaTests
       this.contas = new List<Conta>();
     }
 
-    public void CriarConta(int agencia, int numero, int saldo) {
+    public void CriarConta(int agencia, int numero, int saldo)
+    {
       contas.Add(new Conta(agencia, numero, saldo));
     }
 
-    public IList<Conta> ContasComSaldoMaiorQueDoisMil() {
+    public IList<Conta> ContasComSaldoMaiorQueDoisMil()
+    {
       return contas.Where(conta => conta.Saldo > 2000).ToList();
+      //return contas.Where((Conta conta) => { return conta.Saldo > 2000;  }).ToList();
+      //return contas.Where((Conta conta)=> conta.Saldo > 2000).ToList();
     }
   }
 }
