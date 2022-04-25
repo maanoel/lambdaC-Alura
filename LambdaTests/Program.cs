@@ -19,6 +19,10 @@ namespace LambdaTests
       {
         Console.WriteLine(conta);
       }
+
+      var saldoTotalEntreAsContas = banco.ObterSaldoTotalContas();
+
+      Console.WriteLine(saldoTotalEntreAsContas);
     }
   }
 }

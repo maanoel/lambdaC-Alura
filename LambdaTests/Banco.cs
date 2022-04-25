@@ -28,5 +28,9 @@ namespace LambdaTests
       //return contas.Where((Conta conta) => { return conta.Saldo > 2000;  }).ToList();
       //return contas.Where((Conta conta)=> conta.Saldo > 2000).ToList();
     }
+
+    public double ObterSaldoTotalContas() {
+      return contas.Sum(conta => conta.Saldo);
+    }
   }
 }
