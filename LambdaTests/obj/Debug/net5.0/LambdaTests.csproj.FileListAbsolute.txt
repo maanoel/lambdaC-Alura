@@ -1,0 +1,16 @@
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\bin\Debug\net5.0\LambdaTests.exe
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\bin\Debug\net5.0\LambdaTests.deps.json
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\bin\Debug\net5.0\LambdaTests.runtimeconfig.json
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\bin\Debug\net5.0\LambdaTests.runtimeconfig.dev.json
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\bin\Debug\net5.0\LambdaTests.dll
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\bin\Debug\net5.0\ref\LambdaTests.dll
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\bin\Debug\net5.0\LambdaTests.pdb
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\obj\Debug\net5.0\LambdaTests.csproj.AssemblyReference.cache
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\obj\Debug\net5.0\LambdaTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\obj\Debug\net5.0\LambdaTests.AssemblyInfoInputs.cache
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\obj\Debug\net5.0\LambdaTests.AssemblyInfo.cs
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\obj\Debug\net5.0\LambdaTests.csproj.CoreCompileInputs.cache
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\obj\Debug\net5.0\LambdaTests.dll
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\obj\Debug\net5.0\ref\LambdaTests.dll
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\obj\Debug\net5.0\LambdaTests.pdb
+C:\Users\manoel.vitor\source\repos\LambdaTests\LambdaTests\obj\Debug\net5.0\LambdaTests.genruntimeconfig.cache
